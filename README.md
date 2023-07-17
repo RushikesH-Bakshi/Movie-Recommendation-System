@@ -1,2 +1,2 @@
 # Movie Recommendation System
-A Python based project on movie recommendation based on similarity score
+This is the data science first project I worked on. The project is built upon Python.
